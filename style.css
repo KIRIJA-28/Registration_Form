@@ -1,0 +1,27 @@
+body{
+    background:white;
+}
+#heading{
+    height:75px;
+    width:600px;
+    background:red;
+    color:black;
+    margin:auto;
+    margin-top:50px;
+    border-top:20px;
+    border:1px solid white;
+}
+#heading h1{
+    text-align:center;
+    padding-top:-20%;
+}
+form{
+    background:hotpink;
+    color:black;
+    height:300px;
+    width:600px;
+    margin:auto;
+    margin-top:50px;
+    border:2px solid black;
+    padding:5%;
+}
